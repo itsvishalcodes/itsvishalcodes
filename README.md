@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/vishu1694/vishu1694/raw/master/github_about.gif)
+![](https://github.com/Vishu1694/vishu1694/blob/main/github_about.gif)
 
 Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Computer Science (Lovely Professional University). And when I am not working, you'll find me listening to 90s songs. 
 
