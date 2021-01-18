@@ -24,7 +24,7 @@ Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Comput
 - Competitve Programming in JS, Python and C++
 - Strengthening my Data Structues and Algorithms
 - Learning MERN Stack
-- Learning App Development (React Native)
+- Practising App Development (React Native)
 
 
 ## Languages I use:
@@ -45,6 +45,7 @@ Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Comput
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
 
 
 
