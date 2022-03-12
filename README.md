@@ -56,3 +56,7 @@ Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Comput
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsvishalcodes&theme=tokyonight" />
 </div>
 
+<br />
+
+![itsvishalcodes' github activity graph](https://activity-graph.herokuapp.com/graph?username=itsvishalcodes&theme=nord) 
+
