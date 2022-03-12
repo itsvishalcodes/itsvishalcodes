@@ -48,8 +48,9 @@ Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Comput
 ![React Native](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
 
 
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=itsvishalcodes&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishalcodes&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<div align="center">
+  <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=itsvishalcodes&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishalcodes&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+</div>
 
 <div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsvishalcodes&theme=tokyonight" />
