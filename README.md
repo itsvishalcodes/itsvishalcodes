@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 
 Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Computer Science (Lovely Professional University). And when I am not working, you'll find me listening to 90s songs. 
 
+## Currently Employed at:
+- SDE Intern @Optmyzr
+
 ## Currently I'm:
 
-- Working on several Web Development projects (Rails).
-- Competitve Programming in JS, Python and C++
-- Strengthening my Data Structues and Algorithms
-- Learning MERN Stack
+- Working on several Web Development projects (MERN Stack).
+- Practising Competitve Programming in C++
+- Problem Solving as much as possible
 - Practising App Development (React Native)
 
 
