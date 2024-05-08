@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Computer Science (Lovely Professional University). And when I am not working, you'll find me listening to 90s songs. 
 
 ## Currently Employed at:
-- SDE Intern @Optmyzr
+- SDE I @Optmyzr
 
 ## Currently I'm:
 
